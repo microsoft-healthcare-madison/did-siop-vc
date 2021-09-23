@@ -24,7 +24,7 @@
     "@types/react": "^16.9.55",
     "@types/react-dom": "^16.9.9",
     "@types/reactstrap": "^8.5.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "base-64": "^0.1.0",
     "base64url": "^3.0.1",
     "bootstrap": "^4.5.3",
